@@ -1,10 +1,11 @@
 # Step 1: Build react application
 FROM node:18 as build
 WORKDIR /app
-COPY package.json yarn.lock ./
-RUN yarn install
+COPY package.json pnpm-lock.json ./
+RUN npm install -g pnpm
+RUN pnpm install
 COPY . ./
-RUN yarn build
+RUN pnpm build
 
 # Step 2: Serve app with nginx server
 FROM nginx:stable-alpine as production
