@@ -1,7 +1,7 @@
 # Step 1: Build react application
 FROM node:18 as build
 WORKDIR /app
-COPY package.json pnpm-lock.json ./
+COPY package.json pnpm-lock.yaml ./
 RUN npm install -g pnpm
 RUN pnpm install
 COPY . ./
