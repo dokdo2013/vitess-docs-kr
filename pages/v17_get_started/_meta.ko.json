@@ -1,0 +1,8 @@
+{
+	"vitess-operator-for-kubernetes": "쿠버네티스용 Vitess Operator",
+	"local-install": "로컬 설치하기",
+	"local-install-via-homebrew": "Homebrew를 이용해 로컬 설치하기",
+	"local-install-via-source-for-mac": "소스코드를 이용해 로컬 설치하기 (Mac)",
+	"local-install-via-docker": "Docker를 이용해 로컬 설치하기",
+	"vttestserver-docker-image": "Vttestserver 도커 이미지"
+}

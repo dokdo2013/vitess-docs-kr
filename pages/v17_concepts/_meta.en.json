@@ -1,0 +1,17 @@
+{
+	"cell": "Cell",
+	"execution-plans": "Execution Plans",
+	"keyspace": "Keyspace",
+	"keyspace-id": "Keyspace ID",
+	"movetables": "MoveTables",
+	"query-rewriting": "Query Rewriting",
+	"replication-graph": "Replication Graph",
+	"shard": "Shard",
+	"tablet": "Tablet",
+	"topology-service": "Topology Service",
+	"vschema": "VSchema",
+	"vstream": "VStream",
+	"vtctl": "vtctl",
+	"vtctld": "vtctld",
+	"vtgate": "VTGate"
+}

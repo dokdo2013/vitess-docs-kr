@@ -1,0 +1,17 @@
+{
+	"cell": "셀",
+	"execution-plans": "실행 계획",
+	"keyspace": "키스페이스",
+	"keyspace-id": "키스페이스 ID",
+	"movetables": "MoveTables",
+	"query-rewriting": "쿼리 재작성",
+	"replication-graph": "Replication Graph",
+	"shard": "샤드",
+	"tablet": "Tablet",
+	"topology-service": "Topology Service",
+	"vschema": "VSchema",
+	"vstream": "VStream",
+	"vtctl": "vtctl",
+	"vtctld": "vtctld",
+	"vtgate": "VTGate"
+}

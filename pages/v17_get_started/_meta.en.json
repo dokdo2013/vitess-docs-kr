@@ -1,0 +1,8 @@
+{
+	"vitess-operator-for-kubernetes": "Vitess Operator for Kubernetes",
+	"local-install": "Local Install",
+	"local-install-via-homebrew": "Local Install via Homebrew",
+	"local-install-via-source-for-mac": "Local Install via Source for Mac",
+	"local-install-via-docker": "Local Install via Docker",
+	"vttestserver-docker-image": "Vttestserver Docker Image"
+}
